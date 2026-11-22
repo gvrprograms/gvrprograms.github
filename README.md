@@ -25,6 +25,10 @@
 - LinkedIn: - [My LinkedIn Profile](https://www.linkedin.com/in/gaurav-bharti-29b767327/)
 - GitHub: [@gvrprograms](https://github.com/gvrprograms)
 
----
+-## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvrprograms&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gvrprograms&layout=compact&theme=tokyonight)
 
 ⭐ Thanks for visiting my profile!
